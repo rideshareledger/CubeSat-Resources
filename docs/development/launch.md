@@ -81,6 +81,8 @@ Working backwards from launch, a realistic ordering:
 <!-- CSR-RESOURCES:START dev-launch-procurement -->
 - **[NASA State of the Art – Integration, Launch, Deployment and Orbital Transport](https://www.nasa.gov/smallsat-institute/sst-soa/integration-launch-and-deployment/)** `Link` – Survey of launch vehicles, rideshare pricing, deployer hardware, separation systems and orbital transfer vehicles
 - **[SpaceX Rideshare Program](https://www.spacex.com/rideshare/)** `Link` – Transporter and Bandwagon rideshare program, with published pricing and a booking interface
+- **[Rideshare Ledger](https://www.rideshareledger.space)** `Link` – Tracker of smallsat rideshare launches (SpaceX Transporter, Bandwagon and others) with every date slip logged and sourced, a launch calendar, and FAA, FCC and NOAA licensing updates. Free
+- **[How to Get a Ride on a SpaceX Transporter (Rideshare Ledger)](https://www.rideshareledger.space/guides/spacex-transporter.html)** `Link` – Sourced guide to booking a Transporter rideshare slot: plates and mass, published prices, timelines and licensing. Free
 - **[Exolaunch](https://exolaunch.com/)** `Link` – Launch brokerage, deployer hardware (EXOpod, EXOtube) and integration services for CubeSats
 - **[NASA CubeSat Launch Initiative](https://www.nasa.gov/kennedy/launch-services-program/cubesat-launch-initiative)** `Link` – NASA program providing launch opportunities to US educational and non-profit CubeSat developers
 - **[ESA Fly Your Satellite!](https://www.esa.int/Education/Educational_Satellites)** `Link` – ESA education program offering support, test facilities and launch opportunities to European university teams
